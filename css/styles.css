@@ -1,0 +1,21 @@
+html{
+    min-height: 100%;
+    height: 100%;
+}
+body{
+    min-height: 99%;
+    height: 99%;
+}
+
+.container{
+    min-height: 100%;
+    height: 100%;
+    /* background-image: url("../images/MyFaceHtml.png");
+    background-size: cover;
+    opacity: 0.15; */
+}
+
+.fill { 
+    min-height: 100%;
+    height: 100%;
+}
